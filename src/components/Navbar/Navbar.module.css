@@ -1,0 +1,12 @@
+.siteHeader{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 24px 100px;
+    background-color: cadetblue;
+
+}
+
+.navbarLink{
+    margin-left: 32px;
+}
